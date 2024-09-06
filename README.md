@@ -16,6 +16,6 @@
   <sub>适用于 Linux，macOS，Windows 平台</sub>
 </div>
 <br>
-<h3 align="center">[安装地址（推荐）](<p href="https://update.greasyfork.org/scripts/507167/%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%ADMissAv%E7%9A%84%E5%B9%BF%E5%91%8A.user.js">greasyfork</p>)</h3>
+<h3 align="center">[安装地址（推荐）]<span href="https://update.greasyfork.org/scripts/507167/%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%ADMissAv%E7%9A%84%E5%B9%BF%E5%91%8A.user.js">greasyfork</span></h3>
 <p align="center">Automatically turn off almost all ads on MissAv.com</p>
 <p align="center">自动关闭MissAv.com几乎所有的广告</p>
