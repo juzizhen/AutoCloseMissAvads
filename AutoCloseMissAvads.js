@@ -110,6 +110,7 @@
 			}
 		});
 	}
+	searchbox();
 
     window.onload = function() {
         //获取所有 class 仅为 mx-auto 的元素，遍历并删除这些元素
