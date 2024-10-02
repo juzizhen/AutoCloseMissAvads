@@ -105,7 +105,7 @@
 		});
 		// 添加回车键监听器
 		searchboxinput.addEventListener('keydown', function(event) {
-			if (event.key === 'Enter') {
+			if (event.key === 'Enter' && searchboxinput.value.length > 0) {
 				searchboxbutton.click();
 			}
 		});
