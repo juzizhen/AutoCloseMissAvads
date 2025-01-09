@@ -175,7 +175,7 @@
                     .then(response => {
                         if (response.ok) {
                             console.log('Success:', response.status);
-                            window.location = "/" + searchboxinput.value;
+                            window.location.href = "/" + searchboxinput.value;
                         } else {
                             console.log('Failed:', response.status);
                             alert('视频编号错误！请重新输入！');
